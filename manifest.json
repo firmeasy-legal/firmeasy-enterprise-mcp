@@ -12,9 +12,9 @@
   "homepage": "https://firmeasy.legal",
   "repository": {
     "type": "git",
-    "url": "https://github.com/soportefelipe-26/firmeasy-enterprise-mcp"
+    "url": "https://github.com/firmeasy-legal/firmeasy-enterprise-mcp"
   },
-  "support": "https://github.com/soportefelipe-26/firmeasy-enterprise-mcp/issues",
+  "support": "https://github.com/firmeasy-legal/firmeasy-enterprise-mcp/issues",
   "server": {
     "type": "node",
     "entry_point": "dist/index.js",

@@ -5,11 +5,11 @@
   "license": "UNLICENSED",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/soportefelipe-26/firmeasy-enterprise-mcp.git"
+    "url": "git+https://github.com/firmeasy-legal/firmeasy-enterprise-mcp.git"
   },
-  "homepage": "https://github.com/soportefelipe-26/firmeasy-enterprise-mcp#readme",
+  "homepage": "https://github.com/firmeasy-legal/firmeasy-enterprise-mcp#readme",
   "bugs": {
-    "url": "https://github.com/soportefelipe-26/firmeasy-enterprise-mcp/issues"
+    "url": "https://github.com/firmeasy-legal/firmeasy-enterprise-mcp/issues"
   },
   "type": "module",
   "bin": {
